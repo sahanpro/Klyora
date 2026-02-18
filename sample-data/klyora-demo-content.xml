@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+ xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:wp="http://wordpress.org/export/1.2/">
+<channel>
+  <title>KLYORA Demo Content</title>
+  <link>https://example.com</link>
+  <description>KLYORA by ishi demo pages and posts</description>
+  <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+  <language>en-US</language>
+  <wp:wxr_version>1.2</wp:wxr_version>
+  <wp:base_site_url>https://example.com</wp:base_site_url>
+  <wp:base_blog_url>https://example.com</wp:base_blog_url>
+
+  <wp:author>
+    <wp:author_id>1</wp:author_id>
+    <wp:author_login><![CDATA[admin]]></wp:author_login>
+    <wp:author_email><![CDATA[admin@example.com]]></wp:author_email>
+    <wp:author_display_name><![CDATA[Admin]]></wp:author_display_name>
+    <wp:author_first_name><![CDATA[Site]]></wp:author_first_name>
+    <wp:author_last_name><![CDATA[Owner]]></wp:author_last_name>
+  </wp:author>
+
+  <wp:term>
+    <wp:term_id>101</wp:term_id>
+    <wp:term_taxonomy>category</wp:term_taxonomy>
+    <wp:term_slug><![CDATA[ayurveda-guide]]></wp:term_slug>
+    <wp:term_parent><![CDATA[]]></wp:term_parent>
+    <wp:term_name><![CDATA[Ayurveda Guide]]></wp:term_name>
+  </wp:term>
+
+  <item>
+    <title>Home</title>
+    <link>https://example.com/home</link>
+    <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://example.com/?page_id=1001</guid>
+    <description></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>1001</wp:post_id>
+    <wp:post_date><![CDATA[2026-02-18 00:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-02-18 00:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[home]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[page]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+      <wp:meta_value><![CDATA[page-templates/home-klyora.php]]></wp:meta_value>
+    </wp:postmeta>
+  </item>
+
+  <item>
+    <title>The Ayurvedic Journal</title>
+    <link>https://example.com/the-ayurvedic-journal</link>
+    <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://example.com/?p=2001</guid>
+    <description></description>
+    <content:encoded><![CDATA[
+<p>Ancient rituals still deliver modern beauty benefits when applied consistently and intentionally. In this edition, we explain the relationship between doshas and skin behavior.</p>
+<p>Use weekly oiling, gentle cleansing, and barrier-first moisturization for long-term results.</p>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[Understand how Vata, Pitta, and Kapha influence your skincare ritual.]]></excerpt:encoded>
+    <wp:post_id>2001</wp:post_id>
+    <wp:post_date><![CDATA[2026-02-15 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-02-15 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[open]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[dosha-skincare-guide]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="ayurveda-guide"><![CDATA[Ayurveda Guide]]></category>
+  </item>
+
+  <item>
+    <title>5-Step Night Ritual for Radiant Skin</title>
+    <link>https://example.com/night-ritual-radiant-skin</link>
+    <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://example.com/?p=2002</guid>
+    <description></description>
+    <content:encoded><![CDATA[
+<p>Night rituals are where visible skin recovery begins. Start with a mild cleanse, tone with rose-vetiver mist, and lock in nourishment with kumkumadi-based oil.</p>
+<p>Consistency over intensity is the key principle for Ayurvedic skin renewal.</p>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[Build a luxury Ayurvedic PM routine in five focused steps.]]></excerpt:encoded>
+    <wp:post_id>2002</wp:post_id>
+    <wp:post_date><![CDATA[2026-02-12 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-02-12 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[open]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[night-ritual-radiant-skin]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="ayurveda-guide"><![CDATA[Ayurveda Guide]]></category>
+  </item>
+
+  <item>
+    <title>How to Choose the Right Hair Oil</title>
+    <link>https://example.com/how-to-choose-hair-oil</link>
+    <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://example.com/?p=2003</guid>
+    <description></description>
+    <content:encoded><![CDATA[
+<p>Dry scalp, weak roots, and dull lengths need different oiling frequencies. This guide maps common concerns to Bringadi, Amla, and cooling herb combinations.</p>
+<p>Massage 5 to 7 minutes and let oils sit at least 45 minutes before cleansing.</p>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[A practical Ayurvedic guide to selecting hair oils by concern.]]></excerpt:encoded>
+    <wp:post_id>2003</wp:post_id>
+    <wp:post_date><![CDATA[2026-02-10 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-02-10 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[open]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[how-to-choose-hair-oil]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="ayurveda-guide"><![CDATA[Ayurveda Guide]]></category>
+  </item>
+
+</channel>
+</rss>
